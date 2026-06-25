@@ -20,3 +20,10 @@ Build/*
 
 # Mac/Linux
 .DS_Store
+
+Windows/
+WindowsNoEditor/
+Packaged/
+*.zip
+*.7z*.zip
+*.7z
